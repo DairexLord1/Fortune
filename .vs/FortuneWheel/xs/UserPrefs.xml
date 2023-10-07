@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F45D1A22-5BCA-CE9A-876F-46A6577740B6}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="97c0b1ec-4c67-49b4-b303-be93ffa09792" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ChangeScene.cs">
+    <Files>
+      <File FileName="Assets/ChangeScene.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FortuneWheel" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ChangeScene.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
